@@ -5,14 +5,21 @@
   },
    "UserInfo": 
   {
-    "Name": "Sergio Ramirez",
-    "UserName":"sergiio23",
-    "Email":"sergio.ramirez@sophossolutions.com",
-    "DOcumentType":"CC",
-    "DocumentNumber":"1072666517",
-    "CellphoneNumber":"3192263648",
-    "Occupation":"Implementation Consultant"
+    "name": "Sergio Ramirez",
+    "username":"sergiio23",
+    "password":"pass",
+    "email":"sergio.ramirez@sophossolutions.com",
+    "documenttype":"CC",
+    "documentnumber":"/1072666517",
+    "expeditiondate":"8/10/2017",
+    "borndate":"8/10/2017",
+    "phonenumber":"3192263648",
+    "occupation":"Implementation Consultant"
+   
+    
   }
   
 }
+
+
 
