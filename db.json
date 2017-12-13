@@ -15,8 +15,11 @@
     "borndate":"8/10/2017",
     "phonenumber":"5555555",
     "occupation":"Implementation Consultant"
-   
-    
+  },
+  "Balance":
+  {
+  "AvalaibleBalance":"$150.000.000",
+  "TotalBalance":"$150.000.000"
   }
   
 }
