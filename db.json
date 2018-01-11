@@ -20,7 +20,26 @@
   {
   "AvailableBalance":"$150.000.000",
   "TotalBalance":"$150.000.000"
-  }
+  },
+   "Balance":
+  [{
+  "ID":"1",
+  "Name":"Task 1",
+  "Notes":"$150.000.000",
+  "Done":"false"
+  },
+  {
+  "ID":"2",
+  "Name":"Task 2",
+  "Notes":"Otra...",
+  "Done":"false"
+  },
+   {
+  "ID":"3",
+  "Name":"Task 3",
+  "Notes":"Tercera...",
+  "Done":"false"
+  }]
   
 }
 
